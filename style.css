@@ -1,6 +1,11 @@
 img {
 	width: 400px;
 	height: 200px;
-	display: block;
 	margin-bottom: 15px;
+	border: 4px ridge gray;
+}
+
+* {
+	color: white;
+	background-color: black;
 }
